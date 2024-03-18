@@ -1,5 +1,5 @@
 #! /usr/bin/bash
 cd /var/www/app/
-git pull orgin master -ff-only
+git pull origin master -ff-only
 
 npm i
